@@ -4,6 +4,8 @@ Date: Tue, 24 Oct 2023 10:43:55 +0200
 Subject: [PATCH] dts: allwinner: bananapi-m2-zero: Enforce consistent MMC
  numbering
 
+Upstream-Status: Backport [scarthgap]
+
 Enforce MMC number (sometimes the order was wrong and the device does not boot).
 
 Signed-off-by: Marek Belisko <marek.belisko@open-nandra.com>
